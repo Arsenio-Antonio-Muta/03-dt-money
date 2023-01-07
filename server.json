@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de um site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-05T15:37:38.018Z"
+    },
+    {
+      "id": 2,
+      "description": "Humburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-05T15:40:38.018Z"
+    },
+    {
+      "description": "Ignite",
+      "price": 10000,
+      "category": "Education",
+      "type": "outcome",
+      "createdAt": "2023-01-06T05:05:04.439Z",
+      "id": 3
+    },
+    {
+      "description": "Caffe",
+      "price": 500,
+      "category": "Feed",
+      "type": "outcome",
+      "createdAt": "2023-01-06T05:48:41.921Z",
+      "id": 4
+    }
+  ]
+}
